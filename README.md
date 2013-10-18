@@ -10,5 +10,5 @@ This is a basic app making use of the has_many :through. This makes use of a joi
 
 ![Screenshot 1](app/assets/images/Screen shot 2013-10-18 at 3.47.07 PM.png)
 
-![Screenshot 2](app/assets/images/2013-10-18 at 3.47.40 PM.png)
+![Screenshot 2](app/assets/images/Screen shot 2013-10-18 at 3.47.40 PM.png)
 
