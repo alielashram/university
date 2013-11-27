@@ -12,3 +12,6 @@ This is a basic app making use of the has_many :through association. It makes us
 
 ![Screenshot 2](app/assets/images/Screen shot 2013-10-18 at 3.47.40 PM.png)
 
+## License
+
+MIT: http://aliel.mit-license.org/
